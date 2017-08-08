@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TF_Softmax/Softmax.iml" filepath="$PROJECT_DIR$/TF_Softmax/Softmax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TensorFlow Learn.iml" filepath="$PROJECT_DIR$/TensorFlow Learn.iml" />
+    </modules>
+  </component>
+</project>
